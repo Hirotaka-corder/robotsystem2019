@@ -14,8 +14,11 @@
 その後、以下のようにセットアップを行います
 
 $make
+
 $sudo insmod myledshingou.ko
+
 $sudo mknod /dev/myled0 c [メジャー番号] [マイナー番号]
+
 $sudo chmod 666 /dev/myled0
 
 # 使い方
