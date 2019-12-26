@@ -1,0 +1,1 @@
+cmd_/home/pi/myled/myledshingou.ko := ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/pi/myled/myledshingou.ko /home/pi/myled/myledshingou.o /home/pi/myled/myledshingou.mod.o ;  true
