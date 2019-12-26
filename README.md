@@ -48,7 +48,7 @@ $ echo 1 > /dev/myled0
 # 動画
 あとでのっけます
 
-#参考文献
+# 参考文献
 https://karaage.hatenadiary.jp/entry/2018/01/19/073000
 
 READMEの良さそうな書き方・テンプレート（最終閲覧日：2019/12/27）
