@@ -26,11 +26,13 @@ $ echo [秒数] > /dev/myled0
 
 秒数は0～9の自然数
 
+
 例１）
 $ echo 1 > /dev/myled0 
 
 → GPIO23に接続されたLEDが１秒間点灯後、消灯
 　その後、GPIO24に接続されたLEDが１秒間点灯後、消灯
+ 
  
  例２）
  $ echo 13 > /dev/myled0 
