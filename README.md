@@ -46,7 +46,7 @@ $ echo 1 > /dev/myled0
 　その後、GPIO24に接続されたLEDが３秒間点灯後、消灯
 
 # 動画
-あとでのっけます
+https://www.youtube.com/watch?v=WnCHYqUvV_c&feature=youtu.be
 
 # 参考文献
 https://karaage.hatenadiary.jp/entry/2018/01/19/073000
